@@ -7,8 +7,8 @@
 
 ## About Me
 <p align="center">
-Hello! I'm Abubakaryimam 👋<br>
-I am a student and aspiring developer from Ethiopia 🇪🇹. I focus on backend development, Python, C++, web development, and problem-solving with programming. I enjoy building practical projects and learning new programming skills that can help me grow as a developer.
+Hello! I'm Abubakar Yimam 👋<br>
+I am a student and aspiring developer from Ethiopia. I focus on backend development, Python, C++, web development, and problem-solving with programming. I enjoy building practical projects and learning new programming skills that can help me grow as a developer.
 </p>
 
 ## Social Media
