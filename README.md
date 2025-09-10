@@ -18,7 +18,7 @@ I am a student and aspiring developer from Ethiopia 🇪🇹. I focus on backend
 
 ## GitHub Stats
 <p align="center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbubakarYimam&show_icons=true&theme=radical">
 </p>
 
 ## Languages
