@@ -8,7 +8,7 @@
 ## About Me
 <p align="center">
 Hello! I'm Abubakar Yimam 👋<br>
-I am a student and aspiring developer from Ethiopia. I focus on backend development, Python, C++, web development, and problem-solving with programming. I enjoy building practical projects and learning new programming skills that can help me grow as a developer.
+I am a student and aspiring developer from Ethiopia 🇪🇹. I focus on backend development, Python, C++, web development, and problem-solving with programming. I enjoy building practical projects and learning new programming skills that can help me grow as a developer.
 </p>
 
 ## Social Media
@@ -16,7 +16,7 @@ I am a student and aspiring developer from Ethiopia. I focus on backend developm
   <a href="https://www.linkedin.com/in/abubakar-yimam-aa9a06382/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height=25>
   </a>
-  <a href="mailto:abubakaryimam37@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abubakaryimam37@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height=25>
   </a>
   <a href="https://t.me/abu_789z">
