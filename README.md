@@ -10,10 +10,9 @@ I am a student and aspiring developer from Ethiopia 🇪🇹. I focus on backend
 
 ## Social Media
 <p align="center">
-  <a href="https://github.com/AbubakarYimam"><img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/abubakar-yimam-aa9a06382/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height=25></a>
-  <a href="abubakaryimam37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height=25></a>
-  <a href="@abu_789z"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" height=25></a>
+  <a href="mailto:abubakaryimam37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height=25></a>
+  <a href="https://t.me/@abu_789z"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" height=25></a>
 </p>
 
 ## GitHub Stats
