@@ -1,9 +1,11 @@
-Great ✅ Let’s add a Pinned Projects section at the bottom, merged cleanly with your new README.
-
-Here’s the final version:
-
 <p align="center">
  <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
+</p>
+
+<!-- About Me -->
+<h2 align="center">Hello! I'm Abubakaryimam 👋</h2>
+<p align="center">
+I am a passionate student and aspiring developer from Ethiopia 🇪🇹. I enjoy building projects that combine technology, AI, and practical problem-solving. I’m particularly interested in backend development, data structures & algorithms, and creating tools that can make life easier for people. Always eager to learn and collaborate on innovative projects.
 </p>
 
 <!-- Social Media -->
@@ -68,15 +70,10 @@ Here’s the final version:
   <a href="https://github.com/YOUR-USERNAME/PROJECT2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT2&theme=radical" />
   </a>
+  <a href="https://github.com/YOUR-USERNAME/PROJECT3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT3&theme=radical" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME/PROJECT4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT4&theme=radical" />
+  </a>
 </p>
-
-👉 Replace:
-
-YOUR-USERNAME → your GitHub username
-
-YOUR-LINKEDIN, YOUR-EMAIL, YOUR-TELEGRAM → your actual links
-
-PROJECT1, PROJECT2 → repos you want pinned
-
-
-Would you like me to expand pinned projects to show 4–6 repos instead of just 2, so your profile looks more complete?
