@@ -17,15 +17,15 @@ I enjoy building **practical projects**, learning new skills, and growing step b
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
 
 ---
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [Project 1 ( Math Game )](https://github.com/AbubakarYimam/project-2-Math-Game)
-- [Project 2 ( Your Project 2 )](https://github.com/AbubakarYimam/PROJECT2)
-- [Project 3 ( Your Project 3 )](https://github.com/AbubakarYimam/PROJECT3)
-- [Project 4 ( Your Project 4 )](https://github.com/AbubakarYimam/PROJECT4)
+- [Project 1 ( Rock-Paper-Scissors )](https://github.com/AbubakarYimam/Project-1-Rock-Paper-Scissors)
+- [Project 2 ( Math Game )](https://github.com/AbubakarYimam/project-2-Math-Game)
+
 
 ---
 
@@ -39,7 +39,7 @@ I enjoy building **practical projects**, learning new skills, and growing step b
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - Strengthening **C++ & Python** skills  
 - Practicing **Problem Solving** and Algorithms  
-- Building a stronger **GitHub profile** 💻  
+- Building a stronger **GitHub profile and Linkedin** 💻  
 
 ---
 
