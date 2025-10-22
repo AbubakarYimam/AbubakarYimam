@@ -28,6 +28,8 @@ I enjoy building **practical projects**, learning new skills, and growing step b
 - [Project 3 ( Bank System )](https://github.com/AbubakarYimam/-Project-1---Bank1-/tree/main)
 - [Project 4 ( Bank System With Extension-1 )]( https://github.com/AbubakarYimam/-Project-4-Bank-System-With-Extension)
 - [Project 5 ( Bank System With Extension-2 )]( https://github.com/AbubakarYimam/-Project-5-Bank-Extension-2)
+- [Project 6 ( ATM System )]( https://github.com/AbubakarYimam/Project-6--ATM-System-)
+  
 
 ---
 
